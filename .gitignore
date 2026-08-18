@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.log
+gdp_growth.png
+inflation.png
+model_vs_baseline.png
